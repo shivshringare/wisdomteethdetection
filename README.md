@@ -24,4 +24,4 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 - Run `yolov8_trainer.py` to train the model
 - The trainer loads data from the datasets folder, this can be configured in `data.yaml` file by updating the `path` to `../wisdomteethdetection/datasets/<your-dataset>/`
-  
+
