@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Efficacy Analysis of Image Enhancement for Classifying Mandibular Wisdom Teeth using Yolov8
+type: software
+authors:
+  - given-names: Shiv
+    family-names: Shringare
+    affiliation: Auckland University of Technology
+  - given-names: Yna
+    family-names: Ojeda
+    affiliation: Auckland University of Technology
+  - family-names: Priyadarshini
+    given-names: Natarajan
+    affiliation: Auckland University of Technology
+repository-code: 'https://github.com/shivshringare/wisdomteethdetection'

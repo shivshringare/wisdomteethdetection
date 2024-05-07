@@ -1,4 +1,4 @@
-# Wisdom Teeth Analysis using image enhancement techniques and YoloV8
+# Efficacy Analysis of Image Enhancement for Classifying Mandibular Wisdom Teeth using Yolov8
 
 Before you begin, ensure you have met the following requirements:
 - Python 3.11 or later
